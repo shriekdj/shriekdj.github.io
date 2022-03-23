@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: shriekdj.tk
+Token: ab00f6efd043fab1a61b97a797d009dbd2eb7c4b5e424ba03420c997d690897a
