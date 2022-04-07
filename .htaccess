@@ -3,5 +3,3 @@ RewriteCond %{SERVER_PORT} 80
 RewriteRule ^(.*)$ https://shriekdj.github.io/$1 [R,L]
 Redirect 404 https://shriedj.github.io/404.html https://shriekdj.tk/404.html
 Redirect 301 https://shriedj.github.io/* https://shriekdj.tk/*
-Redirect 301 https://blog.shriedj.tk/ https://shriekdj.hashnode.dev/
-Redirect 301 https://blog.shriedj.tk/* https://shriekdj.hashnode.dev/*
